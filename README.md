@@ -1,5 +1,5 @@
-#<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" ></img> Hola, mi nombre Alejandro Martinez
-Soy creativamente curioso y autodidacta. Me encanta explorar nuevas tecnologías y actualmente aprender nuevas habilidades.
+##<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" ></img> Hola, mi nombre Alejandro Martinez
+<p>Soy creativamente curioso y autodidacta. Me encanta explorar nuevas tecnologías y actualmente aprender nuevas habilidades.</p>
 
 
 
