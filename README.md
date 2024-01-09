@@ -1,4 +1,4 @@
-##<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" ></img> Hola, mi nombre Alejandro Martinez
+<h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" ></img> Hola, mi nombre Alejandro Martinez</h1>
 <p>Soy creativamente curioso y autodidacta. Me encanta explorar nuevas tecnologías y actualmente aprender nuevas habilidades.</p>
 
 
@@ -19,4 +19,14 @@
 
 #<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
+
+
+
+
+
+
+
+
+
+<h1> <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
